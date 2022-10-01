@@ -18,7 +18,6 @@
   * [钛迈罗硬件连接/通讯方式](tai-mai-luo-ruan-ying-jian/ying-jian/tai-mai-luo-ying-jian-lian-jie-tong-xun-fang-shi.md)
   * [钛迈罗拆机](tai-mai-luo-ruan-ying-jian/ying-jian/tai-mai-luo-chai-ji.md)
 * [软件](tai-mai-luo-ruan-ying-jian/ruan-jian/README.md)
-  * [训练神经网络模型（H5）](tai-mai-luo-ruan-ying-jian/ruan-jian/xun-lian-shen-jing-wang-luo-mo-xing-h5.md)
   * [刷写钛迈罗系统镜像](tai-mai-luo-ruan-ying-jian/ruan-jian/shua-xie-tai-mai-luo-xi-tong-jing-xiang.md)
 
 ## 🐦 米思齐软件教程
