@@ -29,3 +29,15 @@ balenaEtcher-Portable-1.5.109
 {% embed url="https://download.interweave.top:8002/file/tcx.interweave.top/[%E8%80%81%E9%92%9B%E8%BF%88%E7%BD%97%E9%95%9C%E5%83%8F]OrangepiV3.0.img" %}
 \[老钛迈罗镜像]OrangepiV3.0.img
 {% endembed %}
+
+## 2、TF卡准备
+
+1、按以下教程拆开钛迈罗，取下TF卡
+
+{% content-ref url="../ying-jian/tai-mai-luo-chai-ji.md" %}
+[tai-mai-luo-chai-ji.md](../ying-jian/tai-mai-luo-chai-ji.md)
+{% endcontent-ref %}
+
+<figure><img src="../../.gitbook/assets/ultra-uhs-i-microsd-16gb.png.wdthumb.1280.1280.png" alt="SanDisk Ultra "><figcaption><p>SanDisk Ultra</p></figcaption></figure>
+
+2、将TF卡插入读卡器，并插入电脑
