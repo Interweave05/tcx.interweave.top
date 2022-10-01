@@ -26,8 +26,12 @@ balenaEtcher-Portable-1.5.109
 [2-wo-de-tai-mai-luo-shi-shi-mo-ban-ben-de.md](../../qi-ta/faq/2-wo-de-tai-mai-luo-shi-shi-mo-ban-ben-de.md)
 {% endcontent-ref %}
 
-{% embed url="https://download.interweave.top:8002/file/tcx.interweave.top/[%E8%80%81%E9%92%9B%E8%BF%88%E7%BD%97%E9%95%9C%E5%83%8F]OrangepiV3.0.img" %}
+{% embed url="https://download.interweave.top:8002/TAI%E6%99%BA%E8%83%BD%E8%BD%A6/%E9%92%9B%E8%BF%88%E7%BD%97%E8%BD%AF%E4%BB%B6/[%E8%80%81%E9%92%9B%E8%BF%88%E7%BD%97%E9%95%9C%E5%83%8F]OrangepiV3.0.img" %}
 \[老钛迈罗镜像]OrangepiV3.0.img
+{% endembed %}
+
+{% embed url="https://download.interweave.top:8002/TAI%E6%99%BA%E8%83%BD%E8%BD%A6/%E9%92%9B%E8%BF%88%E7%BD%97%E8%BD%AF%E4%BB%B6/[%E6%96%B0%E9%92%9B%E8%BF%88%E7%BD%97%E9%95%9C%E5%83%8F]nanopiV3.1.img" %}
+\[新钛迈罗镜像]nanopiV3.1.img
 {% endembed %}
 
 ## 2、TF卡准备
@@ -38,6 +42,6 @@ balenaEtcher-Portable-1.5.109
 [tai-mai-luo-chai-ji.md](../ying-jian/tai-mai-luo-chai-ji.md)
 {% endcontent-ref %}
 
-<figure><img src="../../.gitbook/assets/ultra-uhs-i-microsd-16gb.png.wdthumb.1280.1280.png" alt="SanDisk Ultra "><figcaption><p>SanDisk Ultra</p></figcaption></figure>
+2、将TF卡插入读卡器，并插入电脑。
 
-2、将TF卡插入读卡器，并插入电脑
+<figure><img src="../../.gitbook/assets/KJSABACJ4[E22H%FR5]$20A.png" alt=""><figcaption></figcaption></figure>
