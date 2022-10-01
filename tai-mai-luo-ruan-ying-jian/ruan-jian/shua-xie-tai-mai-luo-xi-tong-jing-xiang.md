@@ -6,7 +6,7 @@
 
 2、下载软件以及系统镜像
 
-{% hint style="warning" %}
+{% hint style="info" %}
 balenaEtcher-Portable-1.5.109.exe 为镜像烧写软件
 
 \[老钛迈罗镜像]OrangepiV3.0.img 为orangepi版本的钛迈罗镜像
