@@ -1,6 +1,6 @@
 # 刷写钛迈罗系统镜像
 
-## 1、前置准备
+## 1、软件准备
 
 1、一台安装windows系统的电脑
 
@@ -42,6 +42,26 @@ balenaEtcher-Portable-1.5.109
 [tai-mai-luo-chai-ji.md](../ying-jian/tai-mai-luo-chai-ji.md)
 {% endcontent-ref %}
 
+<div>
+
+<figure><img src="../../.gitbook/assets/ultra-uhs-i-microsd-16gb.png.wdthumb.1280.1280.png" alt=""><figcaption><p>SanDisk Ultra</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/samsung-evo.webp" alt=""><figcaption><p>Samsung EVO Plus</p></figcaption></figure>
+
+</div>
+
 2、将TF卡插入读卡器，并插入电脑。
 
-<figure><img src="../../.gitbook/assets/KJSABACJ4[E22H%FR5]$20A.png" alt=""><figcaption></figcaption></figure>
+{% hint style="danger" %}
+如遇以下提示，请勿点击格式化，点击取消，并关闭无关窗口
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/TF卡需格式化.png" alt=""><figcaption></figcaption></figure>
+
+## 3、写入系统镜像至TF卡
+
+1、打开软件balenaEtcher-Portable-1.5.109
+
+<figure><img src="../../.gitbook/assets/balenaEtcher-Portable-1.5.109.png" alt=""><figcaption><p>balenaEtcher-Portable-1.5.109</p></figcaption></figure>
