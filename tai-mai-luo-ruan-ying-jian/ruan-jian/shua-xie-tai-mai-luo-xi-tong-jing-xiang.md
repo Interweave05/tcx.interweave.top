@@ -74,4 +74,8 @@ balenaEtcher-Portable-1.5.109
 
 <figure><img src="../../.gitbook/assets/选择SD卡.png" alt=""><figcaption></figcaption></figure>
 
-4、点击faA
+4、点击flash进行刷写，并等待其刷写完成
+
+<figure><img src="../../.gitbook/assets/flash.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/flashing.png" alt=""><figcaption></figcaption></figure>
