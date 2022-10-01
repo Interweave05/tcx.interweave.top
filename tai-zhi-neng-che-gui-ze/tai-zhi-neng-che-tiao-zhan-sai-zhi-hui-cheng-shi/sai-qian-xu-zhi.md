@@ -18,4 +18,4 @@
 
 <mark style="color:red;">**具体任务以及其分值请下载下面文档，以查看赛前须知**</mark>
 
-{% embed url="https://download.interweave.top:8002/TAI%E6%99%BA%E8%83%BD%E8%BD%A6/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82/%E6%95%99%E7%A8%8B%E6%96%87%E4%BB%B6/%E7%AC%AC%E4%B8%80%E8%AF%BE%EF%BC%9A%E8%B5%9B%E5%89%8D%E9%A1%BB%E7%9F%A5.pptx" %}
+{% file src="../../.gitbook/assets/第一课：赛前须知.pptx" %}
