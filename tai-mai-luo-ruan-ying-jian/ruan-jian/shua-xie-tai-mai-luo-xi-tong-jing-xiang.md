@@ -70,12 +70,24 @@ balenaEtcher-Portable-1.5.109
 
 <figure><img src="../../.gitbook/assets/选择镜像 .png" alt=""><figcaption></figcaption></figure>
 
-3、点击select target ，选择要刷写的SD卡
+3、点击select target ，选择要刷写的TF卡
 
 <figure><img src="../../.gitbook/assets/选择SD卡.png" alt=""><figcaption></figcaption></figure>
 
 4、点击flash进行刷写，并等待其刷写完成
 
+{% hint style="warning" %}
+刷写过程中请勿断开与TF卡的连接，或者关闭软件，这将导致系统刷写失败
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/flash.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/flashing.png" alt=""><figcaption></figcaption></figure>
+
+## 4、结束
+
+1、刷写完成后，关闭软件，拔出读卡器，将TF卡取出
+
+2、将TF卡插回原处，并安装好钛迈罗车身
+
+3、开机测试，如果恢复正常，则刷机成功
