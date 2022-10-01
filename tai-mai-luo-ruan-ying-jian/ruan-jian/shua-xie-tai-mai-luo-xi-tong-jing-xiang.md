@@ -1,6 +1,6 @@
 # 刷写钛迈罗系统镜像
 
-## 1、软件准备
+## 点击1、软件准备
 
 1、一台安装windows系统的电脑
 
@@ -65,3 +65,11 @@ balenaEtcher-Portable-1.5.109
 1、打开软件balenaEtcher-Portable-1.5.109
 
 <figure><img src="../../.gitbook/assets/balenaEtcher-Portable-1.5.109.png" alt=""><figcaption><p>balenaEtcher-Portable-1.5.109</p></figcaption></figure>
+
+2、点击Flash from file，选择刚下载完成的系统镜像
+
+<figure><img src="../../.gitbook/assets/选择镜像 .png" alt=""><figcaption></figcaption></figure>
+
+3、点击select target ，选择要刷写的SD卡
+
+<figure><img src="../../.gitbook/assets/选择SD卡.png" alt=""><figcaption></figcaption></figure>
