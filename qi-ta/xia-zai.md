@@ -12,4 +12,8 @@
 
 {% file src="../.gitbook/assets/任务解析.pptx" %}
 
-##
+## 3、软件
+
+{% file src="../.gitbook/assets/Xshell-7.0.0108p.exe" %}
+
+{% file src="../.gitbook/assets/Clash.for.Windows.Setup.0.20.5.exe" %}
