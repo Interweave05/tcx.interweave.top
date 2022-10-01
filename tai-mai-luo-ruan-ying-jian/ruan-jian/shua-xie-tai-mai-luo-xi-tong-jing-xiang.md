@@ -73,3 +73,5 @@ balenaEtcher-Portable-1.5.109
 3、点击select target ，选择要刷写的SD卡
 
 <figure><img src="../../.gitbook/assets/选择SD卡.png" alt=""><figcaption></figcaption></figure>
+
+4、点击faA
