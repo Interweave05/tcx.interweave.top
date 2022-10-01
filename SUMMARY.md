@@ -28,5 +28,6 @@
 
 * [🏛 FAQ](qi-ta/faq/README.md)
   * [1、智能车开机无反应，无法加载模型](qi-ta/faq/1-zhi-neng-che-kai-ji-wu-fan-ying-wu-fa-jia-zai-mo-xing.md)
+  * [2、我的钛迈罗是什么版本的](qi-ta/faq/2-wo-de-tai-mai-luo-shi-shi-mo-ban-ben-de.md)
 * [❤ 比赛温馨提示](qi-ta/bi-sai-wen-xin-ti-shi.md)
 * [✈ 下载](qi-ta/xia-zai.md)
