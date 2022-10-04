@@ -22,6 +22,13 @@
   * [刷写钛迈罗系统镜像](tai-mai-luo-ruan-ying-jian/ruan-jian/shua-xie-tai-mai-luo-xi-tong-jing-xiang.md)
   * [连接钛迈罗ssh](tai-mai-luo-ruan-ying-jian/ruan-jian/lian-jie-tai-mai-luo-ssh.md)
 
+## 🚴 钛麦迪软硬件
+
+* [硬件](tai-mai-di-ruan-ying-jian/ying-jian/README.md)
+  * [Page 1](tai-mai-di-ruan-ying-jian/ying-jian/page-1.md)
+* [软件](tai-mai-di-ruan-ying-jian/ruan-jian/README.md)
+  * [Page 2](tai-mai-di-ruan-ying-jian/ruan-jian/page-2.md)
+
 ## 🐦 米思齐软件教程
 
 * [软件简介](mi-si-qi-ruan-jian-jiao-cheng/ruan-jian-jian-jie.md)
